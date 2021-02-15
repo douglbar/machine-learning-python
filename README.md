@@ -1,2 +1,2 @@
 # machine-learning-python
-Machine Learning exercises in Python
+Machine Learning models in Python
